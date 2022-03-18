@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: "0D0D0D";
+    padding-left: -1rem;
+    font-size: smaller
+}
+.titulo{
+    background: #8D9FA6;
+    color: #383D40;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
